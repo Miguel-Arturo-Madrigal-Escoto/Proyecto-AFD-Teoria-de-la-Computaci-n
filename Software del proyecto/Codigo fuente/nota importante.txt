@@ -1,0 +1,14 @@
+1. El software fue desarrollado con el lenguaje Python en su versión 3.9.6
+
+2. El programa se debe de ejecutar desde main.py
+
+3. En el archivo automata.py se encuentra una clase con AFD 
+
+4. En main_window.py se encuentra el código del funcionamiento del autómata, que a su vez
+utiliza la clase del punto 3.
+
+5. El lenguaje Python hasta la versión utilizada para el desarrollo (3.9.6) no cuenta con switch, por lo que se utiliza
+if en su lugar.
+
+6. Se utiliza la libreria PySide2 para la interfaz gráfica, la cual puede ser instalada desde la terminal con el 
+comando: pip install PySide2
